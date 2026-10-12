@@ -15,3 +15,7 @@
 Пробиваем и находим город 
 
 <img width="796" height="300" alt="image" src="https://github.com/user-attachments/assets/cac6a8d7-ccf1-48b6-9026-0142f74a0423" />
+
+Находим скрипт.php через который взаимодействие происходит
+
+<img width="1051" height="314" alt="image" src="https://github.com/user-attachments/assets/1352bb60-1a48-40f9-97ee-01e8e2609580" />
